@@ -1,0 +1,28 @@
+name: Ablandscaping
+favicon: null
+layout_spectrum: 0.9781952791381627
+typography_spectrum: 0.5910407567862421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23584754392504692
+  lightness: 0.6662634159438312
+  saturation: 0.6304516377858818
+  rhythmicContrast: 0.3508797609247267
+purpose: []

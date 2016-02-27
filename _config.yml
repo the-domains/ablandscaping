@@ -1,7 +1,7 @@
 name: Ablandscaping
 favicon: null
-layout_spectrum: 0.9781952791381627
-typography_spectrum: 0.5910407567862421
+layout_spectrum: 0.11261
+typography_spectrum: 0.98372
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.23584754392504692
+    - '#ffffff'
+    - '#d1d1d1'
+    - '#717171'
+    - '#393939'
+    - '#cb646f'
+  brandStrength: 0.75
   lightness: 0.6662634159438312
-  saturation: 0.6304516377858818
+  saturation: 0.4375
   rhythmicContrast: 0.3508797609247267
 purpose: []

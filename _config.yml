@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#d1d1d1'
-    - '#717171'
-    - '#393939'
-    - '#cb646f'
+    - '#0a0a0a'
+    - '#f9edd7'
+    - '#dccbb1'
+    - '#544339'
+    - '#8e8774'
   brandStrength: 0.75
   lightness: 0.6662634159438312
-  saturation: 0.4375
+  saturation: 0.375
   rhythmicContrast: 0.3508797609247267
 purpose: []

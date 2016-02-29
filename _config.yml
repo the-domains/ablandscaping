@@ -1,6 +1,6 @@
 name: Ablandscaping
 favicon: null
-layout_spectrum: 0.11261
+layout_spectrum: 0.22653
 typography_spectrum: 0.98372
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#dccbb1'
     - '#544339'
     - '#8e8774'
-  brandStrength: 0.75
+  brandStrength: 0.9375
   lightness: 0.6662634159438312
   saturation: 0.375
-  rhythmicContrast: 0.3508797609247267
+  rhythmicContrast: 0.75
 purpose: []

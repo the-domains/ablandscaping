@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
-isBasedOnUrl: null
+hasPage: true
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-29T07:07:18.711Z'
-dateModified: '2016-02-27T20:37:01.809Z'
+datePublished: '2016-02-29T07:15:26.398Z'
+dateModified: '2016-02-29T07:15:10.623Z'
 title: AB Landscaping Services
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -19,11 +18,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: ab-landscaping-services/index.html
+_type: Article
 
 ---
-Home
-
 A&B Landscaping Services is getting ready for the 2016 season with a bang.  
 
 Join us at the Home and Garden show March 17-20 to be entered in a draw for a chance to win 100% of your job cost back in CASH!!!

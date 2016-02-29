@@ -4,7 +4,7 @@
         <description><![CDATA[Ablandscaping]]></description>
         <link>https://thegrid.ai/ablandscaping/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 07:12:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 07:13:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ablandscaping/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Services]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/ablandscaping/services/index.html</link>
             <guid isPermaLink="false">406a6735-ede3-4449-848e-f343c58273eb</guid>
             <pubDate>Mon, 29 Feb 2016 07:12:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prices]]></title>
-            <description><![CDATA[<article><h1>Prices</h1><p>2016 price list starting at:</p></article>]]></description>
-            <link>https://thegrid.ai/ablandscaping/prices/index.html</link>
-            <guid isPermaLink="false">948374bd-505d-4292-9ce2-47bd4898efb1</guid>
-            <pubDate>Mon, 29 Feb 2016 07:11:56 GMT</pubDate>
         </item>
     </channel>
 </rss>

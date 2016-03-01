@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T00:28:15.662Z'
-dateModified: '2016-03-01T00:27:34.468Z'
+datePublished: '2016-03-01T00:49:03.716Z'
+dateModified: '2016-03-01T00:28:23.476Z'
 title: Recent work
 author: []
 sourcePath: _posts/2016-02-29-recent-work.md

@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T09:44:02.845Z'
-dateModified: '2016-03-01T09:43:52.495Z'
+datePublished: '2016-03-01T09:46:27.561Z'
+dateModified: '2016-03-01T09:44:08.695Z'
 title: Recent news
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -35,4 +35,4 @@ We will be having 2 separate promotion for the show:
 
 Stay tuned for more upcoming news
 
-[0]: null
+[0]: http://www.edmontonhomeshow.com/

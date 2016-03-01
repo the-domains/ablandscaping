@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-01T08:50:27.836Z'
-dateModified: '2016-03-01T08:50:23.439Z'
+datePublished: '2016-03-01T09:09:12.244Z'
+dateModified: '2016-03-01T08:50:34.099Z'
 title: "Home and Garden show March 17-20\_"
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -31,7 +31,7 @@ Looking to build off the success of last years show. This year we are doubling u
 We will be having 2 separate promotion for the show:
 
 * All jobs booked at the show are entered into a draw to win your purchase back
-* Our display will have a special show price
+* Our displays will have a special show price
 
 Stay tuned for more upcoming news
 

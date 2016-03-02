@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T06:01:58.138Z'
-dateModified: '2016-03-02T05:30:44.966Z'
+datePublished: '2016-03-02T06:03:56.656Z'
+dateModified: '2016-03-02T06:03:30.711Z'
 title: Recent news
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -35,6 +35,6 @@ We will be having 2 separate promotion for the show:
 
 To be qualified to win back your purchase, you must have been booked through the Home and Garden Show. All customers from the show will be entered into a draw at the end of the year and the winner will receive their purchase to a maximum of $2500\. 
 
-Stay tuned for more upcoming news
+Stay tuned for more
 
 [0]: http://www.edmontonhomeshow.com/

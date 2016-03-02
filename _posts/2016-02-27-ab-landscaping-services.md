@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T04:18:02.194Z'
-dateModified: '2016-03-02T04:17:31.096Z'
+datePublished: '2016-03-02T04:19:14.306Z'
+dateModified: '2016-03-02T04:18:07.522Z'
 title: Recent news
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -22,7 +22,7 @@ publisher:
 _type: Blurb
 
 ---
-A&B Landscaping Services is gearing up and excited to start the 2016 landscaping season
+A&B Landscaping Services is gearing up and ready to start the 2016 landscaping season
 
 [Home and Garden Show March 17-20][0]
 

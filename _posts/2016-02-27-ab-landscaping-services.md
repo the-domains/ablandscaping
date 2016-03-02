@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T04:17:13.069Z'
-dateModified: '2016-03-02T04:17:00.394Z'
+datePublished: '2016-03-02T04:18:02.194Z'
+dateModified: '2016-03-02T04:17:31.096Z'
 title: Recent news
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -24,7 +24,7 @@ _type: Blurb
 ---
 A&B Landscaping Services is gearing up and excited to start the 2016 landscaping season
 
-[Home and Garden show March 17-20][0]
+[Home and Garden Show March 17-20][0]
 
 Looking to build off the success of last years show. This year we are doubling up. We will be located in booth 1950, which is about 100 feet from the main stage in hall B and on a corner.  
 
@@ -33,7 +33,7 @@ We will be having 2 separate promotion for the show:
 * All jobs booked at the show are entered into a draw to win your purchase 
 * Our displays will have a special show price
 
-To be qualified to win back your purchase, you must have been booked through the ome and garden show. All customers from the show will be entered into a draw at the end of the year and the winner will receive their purchase to a maximum of $2500\. 
+To be qualified to win back your purchase, you must have been booked through the Home and Garden Show. All customers from the show will be entered into a draw at the end of the year and the winner will receive their purchase to a maximum of $2500\. 
 
 Stay tuned for more upcoming news
 

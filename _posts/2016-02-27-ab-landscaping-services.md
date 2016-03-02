@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-02T04:19:14.306Z'
-dateModified: '2016-03-02T04:18:07.522Z'
+datePublished: '2016-03-02T05:30:38.382Z'
+dateModified: '2016-03-02T04:20:13.457Z'
 title: Recent news
 author: []
 sourcePath: _posts/2016-02-27-ab-landscaping-services.md
@@ -31,7 +31,7 @@ Looking to build off the success of last years show. This year we are doubling u
 We will be having 2 separate promotion for the show:
 
 * All jobs booked at the show are entered into a draw to win your purchase 
-* Our displays will have a special show price
+* Our display will also have a special show price
 
 To be qualified to win back your purchase, you must have been booked through the Home and Garden Show. All customers from the show will be entered into a draw at the end of the year and the winner will receive their purchase to a maximum of $2500\. 
 
